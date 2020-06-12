@@ -1,4 +1,4 @@
-//Name: Zhenhang Ji CWID:10445682
+//Name:  CWID:
 //Homework3
 import java.util.ArrayList;
 /**
