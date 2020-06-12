@@ -1,4 +1,4 @@
-//Name: Zhenhang Ji CWID:10445682 
+//Name:  CWID:
 public class IDLListTest {
 	public static void main(String[] args){
 		IDLList<Integer> idllist = new IDLList<Integer>();
