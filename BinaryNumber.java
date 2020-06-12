@@ -1,4 +1,4 @@
-//Name : Zhenhang Ji CWID : 10445682
+//Name :  CWID : 
 
 public class BinaryNumber{
 	private int data[];
