@@ -1,4 +1,4 @@
-//Name: Zhenhang Ji CWID:10445682
+//Name:  CWID:
 package anagrams;
 import java.io.BufferedReader;
 import java.io.FileInputStream;
