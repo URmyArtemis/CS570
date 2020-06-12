@@ -1,4 +1,4 @@
-//Name: Zhenhang Ji CWID:10445682
+//Name:  CWID:
 package Treap;
 import java.util.Stack;
 import java.util.Random;
