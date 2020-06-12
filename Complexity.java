@@ -1,4 +1,4 @@
-//Name：Zhenhang Ji CWID：10445682
+//Name： CWID：
 public class Complexity {
 	//O(n^2)
 	public static void method1(int n){
